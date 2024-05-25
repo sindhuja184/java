@@ -28,3 +28,4 @@ public class PrefixToInfix {
         }
         System.out.println(stack.pop());
 }
+}
